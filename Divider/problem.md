@@ -4,7 +4,7 @@ Shopee has N software engineers. Shopee accommodates them by arranging N tables 
 
 The noise value of a group is defined by the following function:
 
-noise(l,r) = (\sum\limits_{i=l}^{r} A _{i})*(r - l +1)
+<a href="https://www.codecogs.com/eqnedit.php?latex=noise(l,r)&space;=&space;(\sum\limits_{i=l}^{r}&space;A&space;_{i})*(r&space;-&space;l&space;&plus;1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?noise(l,r)&space;=&space;(\sum\limits_{i=l}^{r}&space;A&space;_{i})*(r&space;-&space;l&space;&plus;1)" title="noise(l,r) = (\sum\limits_{i=l}^{r} A _{i})*(r - l +1)" /></a>
 
 
 Let:
@@ -29,11 +29,11 @@ The first line of input contains 2 integers: N, K (1 <= N <= 10 000, 1 <= K <= m
 
 Output in a line an integer representing the minimum total noise value possible.
 
-Sample Input:
-4 2
+Sample Input: \
+4 2 \
 1 3 2 4
 
-Sample Output:
+Sample Output: \
 20
 
 
@@ -48,7 +48,7 @@ There are 3 ways to put the divider:
     Noise = (4 * 2) + (6 * 2) = 20
 3.  1 3 2 | 4
     Noise = (6 * 3) + (4 * 1) = 22
-    
+
 We can see that from all the possibilities, 20 is the minimum total noise value.
 
 
