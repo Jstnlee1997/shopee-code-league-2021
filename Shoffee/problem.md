@@ -24,10 +24,10 @@ For each test case, please output an answer in one line representing the number 
 
 Sample Input:\
 3 3\
-1 3 4\
+1 3 4
 
 Sample Output:\
-3\
+3
 
 **Explanation**
 For the first test case, there are totally 6 different consecutive sequences: (1), (3), (4), (1,3), (3,4), (1,3,4), and their average values are Vhat = 1,3,4,2,3.5,8/3. 

@@ -61,10 +61,10 @@ Sample Input: \
 108 208 308 408 508 608 708\
 109 209 309 409 509 609 709\
 110 210 310 410 510 610 710\
-111 211 311 411 511 611 711\
+111 211 311 411 511 611 711
 
 Sample Output:\
-702\
+702
 
 **Explanation** \
 On day 0, move to face 3, collect 702 Shopee coins.

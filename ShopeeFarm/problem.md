@@ -30,12 +30,12 @@ Sample Input:\
 -1 -9 100\
 2 3\
 1 4 -5\
--1 -1 100\
+-1 -1 100
 
 Sample Output:\
 0\
 100\
-103\
+103
 
 **Explanation**
 1.  For the first example, the character can decide to not cross the park at all, hence the total health that the character gets is 0.
