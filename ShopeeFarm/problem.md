@@ -21,21 +21,21 @@ There will be T(1<= T <= 10) number of test cases. On each test case, there will
 
 The output must consist of T number of integers, indicating the maximum amount of health that the character can get.
 
-Sample Input:
-3
-1 5
--9 -8 1 2 3
-2 3
-1 4 -5
--1 -9 100
-2 3
-1 4 -5
--1 -1 100
+Sample Input:\
+3\
+1 5\
+-9 -8 1 2 3\
+2 3\
+1 4 -5\
+-1 -9 100\
+2 3\
+1 4 -5\
+-1 -1 100\
 
-Sample Output:
-0
-100
-103
+Sample Output:\
+0\
+100\
+103\
 
 **Explanation**
 1.  For the first example, the character can decide to not cross the park at all, hence the total health that the character gets is 0.

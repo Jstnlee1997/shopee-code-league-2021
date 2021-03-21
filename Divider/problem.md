@@ -21,7 +21,7 @@ Shopee wants to minimize the total noise value. Please help Shopee to find the m
 
 **Input**
 
-The first line of input contains 2 integers: N, K (1 <= N <= 10 000, 1 <= K <= min(N,100) representing the number of engineers and the number of groups respectively. The next line contains N integers: A_{i} (1 <= A_{i} <= 10 000) representing the noise factor of the i-th engineer.
+The first line of input contains 2 integers: N, K (1 <= N <= 10 000, 1 <= K <= min(N,100) representing the number of engineers and the number of groups respectively. The next line contains N integers: <a href="https://www.codecogs.com/eqnedit.php?latex=A_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{i}" title="A_{i}" /></a> (1 <= <a href="https://www.codecogs.com/eqnedit.php?latex=A_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{i}" title="A_{i}" /></a> <= 10 000) representing the noise factor of the i-th engineer.
 
  
 

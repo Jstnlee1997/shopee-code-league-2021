@@ -22,12 +22,12 @@ The second line contains N positive integers V(1 <= V <= 10^4) splitted by space
 
 For each test case, please output an answer in one line representing the number of Shoffee can be in total.
 
-Sample Input:
-3 3
-1 3 4
+Sample Input:\
+3 3\
+1 3 4\
 
-Sample Output:
-3
+Sample Output:\
+3\
 
 **Explanation**
 For the first test case, there are totally 6 different consecutive sequences: (1), (3), (4), (1,3), (3,4), (1,3,4), and their average values are Vhat = 1,3,4,2,3.5,8/3. 
