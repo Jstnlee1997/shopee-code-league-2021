@@ -6,6 +6,8 @@ A cup of mixed coffee will be called Shoffee if its taste preference value Vhat 
 
 Noel hopes that every day he can drink a cup of Shoffee and keep himself in a good working status. Please help him calculate how many types of Shoffee can be in total.
 
+
+
 **Input Format**
 
 Each test case will consist of exactly 2 lines.
@@ -13,6 +15,8 @@ Each test case will consist of exactly 2 lines.
 The first line are two positive integers N (1 <= N <= 10^5) and K(1 <= K <= 10^4) splitted by space, representing the number of coffee bean flavors, and Noel’s expectation for the coffee.
 
 The second line contains N positive integers V(1 <= V <= 10^4) splitted by space, representing Noel’s preference value for each type of coffee bean.
+
+
 
 **Output Format**
 
