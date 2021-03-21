@@ -1,16 +1,21 @@
 Shopee Planet is a new game in Shopee app. In this game, you are living on a planet which looks like a giant soccer ball. Similar to a soccer ball, there are 12 pentagon faces and 20 hexagon faces which form a "Truncated Icosahedron" as follows:
 
+<center>
 ![image info](./pictures/Figure1.png)
 
 Figure 1: The giant soccer ball
+</center>
 
 On each pentagon face, there is a tree. Each tree will produce some Shopee coins after each day. After seven days, if the coins on a face are not collected, the tree on that face will stop producing coins (until the coins are collected). Due to the climate difference between pentagon faces and hexagon faces, trees are only available on pentagon faces.
 
 Let's "flatten" the soccer ball and number the pentagon faces as follows:
 
+
+<center>
 ![image info](./pictures/Figure2.png)
 
 Figure 2: The giant soccer ball flattened
+</center>
 
 There are D days in total. On the first day (day 0), you are standing on the hexagon face surrounded by face 1, 2, and 3 (the center face in Figure 2). Each day, you have to move to an adjacent face (you are not allowed to stay at the current face), collect all the Shopee coins on that face (if available). The number of coins you can collect is determined by this rule:
 

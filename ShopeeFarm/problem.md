@@ -13,7 +13,7 @@ Please help the character to get the maximum amount of health.
 
 **Input**
 
-There will be T(1<= T <= 10) number of test cases. On each test case, there will be a line with 2 integers, N and M (1 <= N <= 1000, 1<= M <= 1000)  Then N lines follow up, with each line containing M integers, Aij (-10^9 <= Aij <= 10^9), which means the health of the fruit on day i at cell j.
+There will be T(1<= T <= 10) number of test cases. On each test case, there will be a line with 2 integers, N and M (1 <= N <= 1000, 1<= M <= 1000)  Then N lines follow up, with each line containing M integers, <a href="https://www.codecogs.com/eqnedit.php?latex=A_{i,j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{i,j}" title="A_{i,j}" /></a> (-10^9 <= <a href="https://www.codecogs.com/eqnedit.php?latex=A_{i,j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{i,j}" title="A_{i,j}" /></a> <= 10^9), which means the health of the fruit on day i at cell j.
 
  
 
